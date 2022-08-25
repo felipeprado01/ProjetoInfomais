@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  disciplina: one
+  sala: one
+  aluno: one
+  data: 2022-08-24
+  nota: MyString
+  float: MyString
+
+two:
+  disciplina: two
+  sala: two
+  aluno: two
+  data: 2022-08-24
+  nota: MyString
+  float: MyString
